@@ -9,4 +9,3 @@ This project implements a synchronous Network-on-Chip (NoC) with a 2D Torus topo
 - Place-and-route (PnR) executed in **Cadence Innovus**, achieving 61.512% utilization with clean DRC results
 - Packet transmission performance improved by 6% due to optimized Torus routing and handshake-based flow control
 
-## Repository Structure
