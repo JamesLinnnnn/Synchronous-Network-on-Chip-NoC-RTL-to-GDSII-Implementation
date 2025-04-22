@@ -1,0 +1,184 @@
+VERIFY_CONNECTIVITY use new engine.
+
+******** Start: VERIFY CONNECTIVITY ********
+Start Time: Tue Apr 22 12:09:36 2025
+
+Design Name: NoC_3x3
+Database Units: 2000
+Design Boundary: (0.0000, 0.0000) (2009.8200, 2009.8200)
+Error Limit = 1000; Warning Limit = 50
+Check all nets
+Multi-CPU acceleration using 16 CPU(s).
+**** 12:09:38 **** Processed 5000 nets (Total 30000) in Job 3
+**** 12:09:38 **** Processed 5000 nets (Total 30000) in Job 2
+**** 12:09:38 **** Processed 10000 nets (Total 30000) in Job 2
+**** 12:09:38 **** Processed 10000 nets (Total 30000) in Job 3
+**** 12:09:38 **** Processed 5000 nets (Total 30000) in Job 5
+**** 12:09:38 **** Processed 5000 nets (Total 30000) in Job 6
+**** 12:09:38 **** Processed 5000 nets (Total 30000) in Job 7
+**** 12:09:38 **** Processed 5000 nets (Total 30000) in Job 4
+**** 12:09:38 **** Processed 15000 nets (Total 30000) in Job 3
+**** 12:09:38 **** Processed 15000 nets (Total 30000) in Job 2
+**** 12:09:38 **** Processed 10000 nets (Total 30000) in Job 5
+**** 12:09:38 **** Processed 5000 nets (Total 30000) in Job 8
+**** 12:09:38 **** Processed 10000 nets (Total 30000) in Job 7
+**** 12:09:38 **** Processed 10000 nets (Total 30000) in Job 6
+**** 12:09:38 **** Processed 20000 nets (Total 30000) in Job 3
+**** 12:09:38 **** Processed 20000 nets (Total 30000) in Job 2
+**** 12:09:38 **** Processed 15000 nets (Total 30000) in Job 5
+**** 12:09:38 **** Processed 10000 nets (Total 30000) in Job 4
+**** 12:09:38 **** Processed 5000 nets (Total 30000) in Job 10
+**** 12:09:38 **** Processed 10000 nets (Total 30000) in Job 8
+**** 12:09:38 **** Processed 15000 nets (Total 30000) in Job 7
+**** 12:09:38 **** Processed 5000 nets (Total 30000) in Job 9
+**** 12:09:38 **** Processed 15000 nets (Total 30000) in Job 6
+**** 12:09:39 **** Processed 25000 nets (Total 30000) in Job 3
+**** 12:09:39 **** Processed 20000 nets (Total 30000) in Job 5
+**** 12:09:39 **** Processed 25000 nets (Total 30000) in Job 2
+**** 12:09:39 **** Processed 5000 nets (Total 30000) in Job 11
+**** 12:09:39 **** Processed 15000 nets (Total 30000) in Job 4
+**** 12:09:39 **** Processed 10000 nets (Total 30000) in Job 10
+**** 12:09:39 **** Processed 10000 nets (Total 30000) in Job 9
+**** 12:09:39 **** Processed 15000 nets (Total 30000) in Job 8
+**** 12:09:39 **** Processed 5000 nets (Total 30000) in Job 12
+**** 12:09:39 **** Processed 20000 nets (Total 30000) in Job 7
+**** 12:09:39 **** Processed 30000 nets (Total 30000) in Job 3
+**** 12:09:39 **** Processed 30000 nets (Total 30000) in Job 2
+**** 12:09:39 **** Processed 20000 nets (Total 30000) in Job 6
+**** 12:09:39 **** Processed 25000 nets (Total 30000) in Job 5
+**** 12:09:39 **** Processed 20000 nets (Total 30000) in Job 4
+**** 12:09:39 **** Processed 10000 nets (Total 30000) in Job 12
+**** 12:09:39 **** Processed 15000 nets (Total 30000) in Job 10
+**** 12:09:39 **** Processed 10000 nets (Total 30000) in Job 11
+**** 12:09:39 **** Processed 20000 nets (Total 30000) in Job 8
+**** 12:09:39 **** Processed 15000 nets (Total 30000) in Job 9
+**** 12:09:39 **** Processed 25000 nets (Total 30000) in Job 7
+**** 12:09:39 **** Processed 30000 nets (Total 30000) in Job 5
+**** 12:09:39 **** Processed 25000 nets (Total 30000) in Job 6
+**** 12:09:39 **** Processed 25000 nets (Total 30000) in Job 4
+**** 12:09:39 **** Processed 5000 nets (Total 30000) in Job 13
+**** 12:09:39 **** Processed 15000 nets (Total 30000) in Job 12
+**** 12:09:39 **** Processed 5000 nets (Total 30000) in Job 14
+**** 12:09:39 **** Processed 15000 nets (Total 30000) in Job 11
+**** 12:09:39 **** Processed 25000 nets (Total 30000) in Job 8
+**** 12:09:39 **** Processed 20000 nets (Total 30000) in Job 9
+**** 12:09:39 **** Processed 30000 nets (Total 30000) in Job 7
+**** 12:09:39 **** Processed 20000 nets (Total 30000) in Job 10
+**** 12:09:39 **** Processed 30000 nets (Total 30000) in Job 6
+**** 12:09:39 **** Processed 30000 nets (Total 30000) in Job 4
+**** 12:09:39 **** Processed 10000 nets (Total 30000) in Job 14
+**** 12:09:39 **** Processed 20000 nets (Total 30000) in Job 11
+**** 12:09:39 **** Processed 20000 nets (Total 30000) in Job 12
+**** 12:09:39 **** Processed 30000 nets (Total 30000) in Job 8
+**** 12:09:39 **** Processed 5000 nets (Total 30000) in Job 15
+**** 12:09:39 **** Processed 25000 nets (Total 30000) in Job 9
+**** 12:09:39 **** Processed 10000 nets (Total 30000) in Job 13
+**** 12:09:39 **** Processed 5000 nets (Total 30000) in Job 16
+**** 12:09:39 **** Processed 25000 nets (Total 30000) in Job 11
+**** 12:09:39 **** Processed 25000 nets (Total 30000) in Job 10
+**** 12:09:39 **** Processed 10000 nets (Total 30000) in Job 15
+**** 12:09:39 **** Processed 15000 nets (Total 30000) in Job 14
+**** 12:09:39 **** Processed 15000 nets (Total 30000) in Job 13
+**** 12:09:39 **** Processed 30000 nets (Total 30000) in Job 9
+**** 12:09:39 **** Processed 30000 nets (Total 30000) in Job 11
+**** 12:09:39 **** Processed 10000 nets (Total 30000) in Job 16
+**** 12:09:39 **** Processed 30000 nets (Total 30000) in Job 10
+**** 12:09:39 **** Processed 20000 nets (Total 30000) in Job 13
+**** 12:09:39 **** Processed 25000 nets (Total 30000) in Job 12
+**** 12:09:39 **** Processed 15000 nets (Total 30000) in Job 15
+**** 12:09:39 **** Processed 20000 nets (Total 30000) in Job 14
+*** 12:09:39 *** Building data for Net clk
+**** 12:09:40 **** Processed 25000 nets (Total 30000) in Job 13
+**** 12:09:40 **** Processed 20000 nets (Total 30000) in Job 15
+**** 12:09:40 **** Processed 30000 nets (Total 30000) in Job 12
+**** 12:09:40 **** Processed 15000 nets (Total 30000) in Job 16
+**** 12:09:40 **** Processed 30000 nets (Total 30000) in Job 13
+**** 12:09:40 **** Processed 25000 nets (Total 30000) in Job 15
+**** 12:09:40 **** Processed 25000 nets (Total 30000) in Job 14
+**** 12:09:40 **** Processed 20000 nets (Total 30000) in Job 16
+**** 12:09:40 **** Processed 30000 nets (Total 30000) in Job 14
+*** 12:09:40 *** Building data for Net clk
+**** 12:09:40 **** Processed 30000 nets (Total 30000) in Job 15
+**** 12:09:40 **** Processed 25000 nets (Total 30000) in Job 16
+**** 12:09:40 **** Processed 30000 nets (Total 30000) in Job 16
+**** 12:09:41 **** Processed 5000 nets (Total 30000) in Job 17
+**** 12:09:41 **** Processed 10000 nets (Total 30000) in Job 17
+**** 12:09:41 **** Processed 15000 nets (Total 30000) in Job 17
+**** 12:09:41 **** Processed 20000 nets (Total 30000) in Job 17
+**** 12:09:41 **** Processed 5000 nets (Total 30000) in Job 18
+**** 12:09:42 **** Processed 25000 nets (Total 30000) in Job 17
+**** 12:09:42 **** Processed 10000 nets (Total 30000) in Job 18
+**** 12:09:42 **** Processed 30000 nets (Total 30000) in Job 17
+**** 12:09:42 **** Processed 5000 nets (Total 30000) in Job 19
+**** 12:09:42 **** Processed 15000 nets (Total 30000) in Job 18
+**** 12:09:42 **** Processed 10000 nets (Total 30000) in Job 19
+**** 12:09:42 **** Processed 20000 nets (Total 30000) in Job 18
+**** 12:09:42 **** Processed 15000 nets (Total 30000) in Job 19
+**** 12:09:42 **** Processed 25000 nets (Total 30000) in Job 18
+**** 12:09:42 **** Processed 20000 nets (Total 30000) in Job 19
+**** 12:09:42 **** Processed 5000 nets (Total 30000) in Job 20
+**** 12:09:42 **** Processed 30000 nets (Total 30000) in Job 18
+**** 12:09:42 **** Processed 10000 nets (Total 30000) in Job 20
+**** 12:09:42 **** Processed 25000 nets (Total 30000) in Job 19
+**** 12:09:42 **** Processed 15000 nets (Total 30000) in Job 20
+**** 12:09:43 **** Processed 5000 nets (Total 30000) in Job 21
+**** 12:09:43 **** Processed 30000 nets (Total 30000) in Job 19
+**** 12:09:43 **** Processed 10000 nets (Total 30000) in Job 21
+**** 12:09:43 **** Processed 20000 nets (Total 30000) in Job 20
+**** 12:09:43 **** Processed 15000 nets (Total 30000) in Job 21
+**** 12:09:43 **** Processed 25000 nets (Total 30000) in Job 20
+**** 12:09:43 **** Processed 20000 nets (Total 30000) in Job 21
+**** 12:09:43 **** Processed 30000 nets (Total 30000) in Job 20
+**** 12:09:43 **** Processed 5000 nets (Total 30000) in Job 1
+**** 12:09:43 **** Processed 25000 nets (Total 30000) in Job 21
+**** 12:09:43 **** Processed 5000 nets (Total 30000) in Job 22
+**** 12:09:43 **** Processed 10000 nets (Total 30000) in Job 1
+**** 12:09:43 **** Processed 10000 nets (Total 30000) in Job 22
+**** 12:09:43 **** Processed 30000 nets (Total 30000) in Job 21
+**** 12:09:43 **** Processed 15000 nets (Total 30000) in Job 1
+**** 12:09:43 **** Processed 15000 nets (Total 30000) in Job 22
+**** 12:09:44 **** Processed 5000 nets (Total 30000) in Job 23
+**** 12:09:44 **** Processed 20000 nets (Total 30000) in Job 1
+**** 12:09:44 **** Processed 20000 nets (Total 30000) in Job 22
+**** 12:09:44 **** Processed 10000 nets (Total 30000) in Job 23
+**** 12:09:44 **** Processed 25000 nets (Total 30000) in Job 1
+**** 12:09:44 **** Processed 25000 nets (Total 30000) in Job 22
+**** 12:09:44 **** Processed 15000 nets (Total 30000) in Job 23
+**** 12:09:44 **** Processed 30000 nets (Total 30000) in Job 1
+**** 12:09:44 **** Processed 20000 nets (Total 30000) in Job 23
+**** 12:09:44 **** Processed 30000 nets (Total 30000) in Job 22
+**** 12:09:44 **** Processed 5000 nets (Total 30000) in Job 24
+**** 12:09:44 **** Processed 25000 nets (Total 30000) in Job 23
+**** 12:09:44 **** Processed 10000 nets (Total 30000) in Job 24
+**** 12:09:44 **** Processed 30000 nets (Total 30000) in Job 23
+**** 12:09:44 **** Processed 15000 nets (Total 30000) in Job 24
+**** 12:09:45 **** Processed 20000 nets (Total 30000) in Job 24
+**** 12:09:45 **** Processed 5000 nets (Total 30000) in Job 25
+**** 12:09:45 **** Processed 25000 nets (Total 30000) in Job 24
+**** 12:09:45 **** Processed 10000 nets (Total 30000) in Job 25
+**** 12:09:45 **** Processed 30000 nets (Total 30000) in Job 24
+**** 12:09:45 **** Processed 15000 nets (Total 30000) in Job 25
+**** 12:09:45 **** Processed 20000 nets (Total 30000) in Job 25
+**** 12:09:45 **** Processed 5000 nets (Total 30000) in Job 26
+**** 12:09:45 **** Processed 25000 nets (Total 30000) in Job 25
+**** 12:09:45 **** Processed 10000 nets (Total 30000) in Job 26
+**** 12:09:46 **** Processed 30000 nets (Total 30000) in Job 25
+**** 12:09:46 **** Processed 15000 nets (Total 30000) in Job 26
+**** 12:09:46 **** Processed 20000 nets (Total 30000) in Job 26
+**** 12:09:46 **** Processed 5000 nets (Total 16565) in Job 27
+**** 12:09:46 **** Processed 25000 nets (Total 30000) in Job 26
+**** 12:09:46 **** Processed 10000 nets (Total 16565) in Job 27
+**** 12:09:46 **** Processed 30000 nets (Total 30000) in Job 26
+**** 12:09:46 **** Processed 15000 nets (Total 16565) in Job 27
+
+Begin Summary 
+  Found no problems or warnings.
+End Summary
+
+End Time: Tue Apr 22 12:09:49 2025
+Time Elapsed: 0:00:13.0
+
+******** End: VERIFY CONNECTIVITY ********
+  Verification Complete : 0 Viols.  0 Wrngs.
+  (CPU Time: 0:00:19.4  MEM: 2.812M)
+
