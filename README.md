@@ -1,6 +1,6 @@
 # Synchronous Network-on-Chip (NoC): RTL-to-GDSII Implementation
 
-This project implements a synchronous Network-on-Chip (NoC) with a 2D Torus topology, featuring a 4-stage pipelined processor and custom Network Interface Controllers (NICs). The full digital design flow is completed from RTL to GDSII using industry-standard EDA tools.
+This EE577B project implements a synchronous Network-on-Chip (NoC) with a 2D Torus topology, featuring a 4-stage pipelined processor and custom Network Interface Controllers (NICs). The full digital design flow is completed from RTL to GDSII using industry-standard EDA tools.
 
 ## Project Highlights
 - RTL design in Verilog, simulated and debugged using **SimVision**
